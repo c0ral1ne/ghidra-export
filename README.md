@@ -15,6 +15,8 @@ In Ghidra with a project binary open, you can launch the script through the Scri
 
 <todo pictures/gif>
 
+<todo example>
+
 ## Todo
 * Support CLI headless mode
 * Better script title and description
