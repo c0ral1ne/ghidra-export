@@ -8,12 +8,15 @@ Export decompiled functions into a single C file.
 
 All done! You can verify the script is being properly picked up by opening Ghidra -> Script Manager and searching for `export.py`
 
-## Usage
+## Usage (in Ghidra)
 Since this is a Pyghidra script, you'll need to start Ghidra using the `pyghidraRun` script instead of the typical `ghidraRun`.
 
 In Ghidra with a project binary open, you can launch the script through the Script Manager. For convenience, you can assign it a key-binding, You should also see it in the Script menu dropdown after the first time you run it.
 
 <todo pictures/gif>
+
+## Usage (headless / CLI)
+todo
 
 <todo example>
 
